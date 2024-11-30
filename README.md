@@ -20,8 +20,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Epic2077&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Epic2077&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epic2077&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epic2077&theme=github_dark&hide_border=false&langs_count=10&count_private=false&layout=compact)<br />
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Epic2077&bg_color=1e1e2f&color=983a96&line=ae0004&point=01acc5&area=true&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Epic2077&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
