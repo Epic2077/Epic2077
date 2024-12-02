@@ -3,7 +3,7 @@
 
 - I’m currently working on **![Vanilla-shoes](https://github.com/Epic2077/Vanilla-Shoes)**
 
-- I’m currently learning **React.js & Other Frameworks**
+- I’m currently learning **React.js & Typescript**
 
 - Ask me about **HTML, CSS, JS**
 
