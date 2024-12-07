@@ -1,7 +1,7 @@
 <h1 align="center">YO! I'm Ashkan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- I’m currently working on **![Vanilla-shoes](https://github.com/Epic2077/Vanilla-Shoes)**
+- I’m currently working on **![TSX-Shoes](https://github.com/Epic2077/TSX-Shoes)**
 
 - I’m currently learning **React.js & Typescript**
 
