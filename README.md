@@ -3,7 +3,7 @@
 
 - I’m currently working on **![TSX-Shoes](https://github.com/Epic2077/TSX-Shoes)**
 
-- I’m currently learning **React.js & Typescript**
+- I’m currently learning **React & Typescript**
 
 - Ask me about **HTML, CSS, JS**
 
