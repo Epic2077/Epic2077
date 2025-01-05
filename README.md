@@ -3,9 +3,9 @@
 
 - I’m currently working on **![TSX-Shoes](https://github.com/Epic2077/TSX-Shoes)**
 
-- I’m currently learning **React & Typescript**
+- I’m currently learning **Next.js**
 
-- Ask me about **HTML, CSS, JS**
+- Ask me about **HTML, CSS, JS, TS, React.js**
 
 - How to reach me **the.epic.2077@gmail.com**
 
