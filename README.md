@@ -7,7 +7,7 @@
 
 - Ask me about **HTML, CSS, JS, TS, React.js**
 
-- How to reach me **the.epic.2077@gmail.com**
+- How to reach me **[LinkedIn](https://www.linkedin.com/in/mohammadhosseinsadeghi/)**
 
 - Fun fact **I love Snakes**
 
