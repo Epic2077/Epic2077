@@ -1,6 +1,8 @@
 <h1 align="center">YO! I'm Ashkan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+
+
 - I’m currently working on **[3legant-Sounds](https://github.com/Epic2077/3legant-Sounds)**
 
 - I’m currently learning **Next.js**
@@ -22,6 +24,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Epic2077&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epic2077&theme=github_dark&hide_border=false&langs_count=10&count_private=false&layout=compact)<br />
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Epic2077&bg_color=0d1117&color=39d353&line=ae0004&point=01acc5&theme=github_dark&area=true&hide_border=false)
+<div align="center">
+  <a href="https://u8views.com/github/Epic2077"><img src="https://u8views.com/api/v1/github/profiles/63421607/views/day-week-month-total-count.svg"></a>
+</div>
 
 
 ## 🏆 GitHub Trophies
@@ -31,5 +36,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Epic2077&icon=2&color=0)](https://visitcount.itsvg.in)
 
