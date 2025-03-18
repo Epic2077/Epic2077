@@ -5,9 +5,9 @@
 
 - I’m currently working on **[3legant-Sounds](https://github.com/Epic2077/3legant-Sounds)**
 
-- I’m currently learning **Next.js**
+- I’m currently sharpening my skills
 
-- Ask me about **HTML, CSS, JS, TS, React.js**
+- Ask me about **HTML, CSS, JS, TS, React.js, Next.js**
 
 - How to reach me **[LinkedIn](https://www.linkedin.com/in/mohammadhosseinsadeghi/)**
 
