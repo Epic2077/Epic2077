@@ -54,3 +54,7 @@
 
 ---
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count since May 4th, 2025</b></p>  
+<a href="#"><p align="center"><img align="center" src="https://profile-counter.glitch.me/{Epic2077}/count.svg" /></p> </a>
+<br></div>
