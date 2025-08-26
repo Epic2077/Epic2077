@@ -29,7 +29,7 @@
 </a>
 </a>
   <a href="https://github.com/Epic2077/https://github.com/Epic2077/https://github.com/Epic2077/Vanilla-Shoes">
-  <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Epic2077&repo=Vanilla-Shoes&show_owner=true&theme=github_dark" />
+  <img alt="Pin" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Epic2077&repo=elegant-backend&show_owner=true&theme=github_dark" />
 </a>
 </div>
 
