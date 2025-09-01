@@ -13,7 +13,7 @@
 
 - How to reach me **[LinkedIn](https://www.linkedin.com/in/mohammadhosseinsadeghi/)**
 
-- Fun fact **I love Snakes**
+- Open source developer
 
 
 ## 🌐 Socials:
