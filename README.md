@@ -1,6 +1,6 @@
 <h1 align="center">YO! I'm Ashkan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Epic2077&base=4864" /></p></a>
+<a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Epic2077&base=4864" /> <img align="center" src="https://img.shields.io/github/stars/Epic2077?style=social" /></p></a>
 <a href="#"><p align="center"></p></a>
 
 
