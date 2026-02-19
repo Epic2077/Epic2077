@@ -40,7 +40,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Epic2077&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-[![Ashkan's Github Stats](https://github-readme-stats.vercel.app/api?username=epic2077&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/epic2077/github-readme-stats#gh-dark-mode-only)
 <br/>
 ![](https://streak-stats.demolab.com/?user=Epic2077&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epic2077&theme=github_dark&hide_border=false&langs_count=10&count_private=false&layout=compact)<br />
@@ -49,18 +48,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Epic2077&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epic2077/Epic2077/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epic2077/Epic2077/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Epic2077/Epic2077/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 
