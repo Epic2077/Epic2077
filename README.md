@@ -5,7 +5,7 @@
 <a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Epic2077&base=4864" /> <img align="center" src="https://img.shields.io/github/stars/Epic2077?style=social" /></p></a>
 <a href="#"><p align="center"></p></a>
 
-- I’m currently working on **[3legant-Sounds](https://github.com/Epic2077/3legant-Sounds)**
+- I’m currently working on **[Nova Star AI](https://github.com/Epic2077/nova-star-ai)**
 
 - I’m currently sharpening my skills
 
