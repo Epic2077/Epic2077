@@ -22,14 +22,14 @@
 # ⚡Top Projects:
 
 <div align="center">
+  <a href="https://github.com/Epic2077/nova-star-ai">
+  <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=Nova-Star-Ai&show_owner=true&theme=github_dark" />
+</a>
   <a href="https://github.com/Epic2077/elegant-sounds">
   <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=Elegant-Sounds&show_owner=true&theme=github_dark" />
 </a>
   <a href="https://github.com/Epic2077/TSX-Shoes">
   <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=TSX-Shoes&show_owner=true&theme=github_dark" />
-</a>
-  <a href="https://github.com/Epic2077/elegant-backend">
-  <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=elegant-backend&show_owner=true&theme=github_dark" />
 </a>
 </div>
 
