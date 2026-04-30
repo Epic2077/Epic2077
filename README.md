@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/Epic2077/nova-star-ai">
-  <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=Nova-Star-Ai&show_owner=true&theme=github_dark" />
+  <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=nova-star-ai&show_owner=true&theme=github_dark" />
 </a>
   <a href="https://github.com/Epic2077/elegant-sounds">
   <img alt="Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic2077&repo=Elegant-Sounds&show_owner=true&theme=github_dark" />
