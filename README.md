@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ae0004,100:01acc5&height=220&section=header&text=YO!%20I'm%20Ashkan&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20|%20Open%20Source%20Enthusiast&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" alt="header" />
 </div>
 
+<div align="center" >
+  <a align="center" href="https://potfolio-ashkan.vercel.app/">
+    <img align="center" src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20My%20Website-ae0004?style=for-the-badge&labelColor=0d1117" />
+  </a>
+</div>
+
 <a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Epic2077&base=4864" /> <img align="center" src="https://img.shields.io/github/stars/Epic2077?style=social" /></p></a>
 <a href="#"><p align="center"></p></a>
 
@@ -17,7 +23,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammadhosseinsadeghi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ashkan_2077) [![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-Visit%20My%20Website-ae0004?style=for-the-badge&labelColor=0d1117)](https://potfolio-ashkan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammadhosseinsadeghi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ashkan_2077) 
 
 # ⚡Top Projects:
 
